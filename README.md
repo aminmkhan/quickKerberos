@@ -1,7 +1,7 @@
 # quickKerberos
 
-These scripts help with setup of Kerberos for Cloudera clsuter,
-and are based on the [scripts] from [Marty Lurie] the Cloudera's [blog post].
+These scripts help with the setup of Kerberos for Cloudera cluster,
+and are based on the [scripts] by [Marty Lurie] from the Cloudera [blog post].
 
 [scripts]: https://github.com/git4impatient/quickKerberos
 [Marty Lurie]: http://blog.cloudera.com/?guest-author=Marty%20Lurie
